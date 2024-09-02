@@ -1,0 +1,1 @@
+The interactive dashboard depitcs the Financial KPI performance of a fictional company. The dashboard neatly speaks about the total sales v/s the target sales, count of months the target attained, sales performance of indivisual sales representative and target status
